@@ -1,4 +1,4 @@
-# Typescript // Mongoose // Apollo GraphQL Server // Angular 4+ // React // Starter Kit
+# Typescript // Mongoose // Apollo GraphQL Server // React
 
 # Prerequisites
 - node v8.x.x - `sudo n latest` or `nvm install 8.1.0`
